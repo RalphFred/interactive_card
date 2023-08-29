@@ -2,7 +2,7 @@ function App() {
 
   return (
     <div className="">
-      This is the app...
+      I dont know why this stuff isn't working
     </div>
   )
 }
